@@ -1,0 +1,1 @@
+# genpark-agent-api-governance-and-rbac-policy-proxy-skill\n\nEnforces fine-grained permissions on agent tool calls and data access scopes.\n\n100% Python Standard Library implementation with zero external dependencies.
