@@ -1,0 +1,1 @@
+[project]\nname = "genpark-agent-api-governance-and-rbac-policy-proxy-skill"\nversion = "1.0.0"\ndescription = "Enforces fine-grained permissions on agent tool calls and data access scopes"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
