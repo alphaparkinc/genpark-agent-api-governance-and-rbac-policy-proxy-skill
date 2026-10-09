@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agent-api-governance-and-rbac-policy-proxy-skill",
+  "version": "1.0.0",
+  "description": "Enforces fine-grained permissions on agent tool calls and data access scopes",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
